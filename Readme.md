@@ -23,6 +23,7 @@ One thing is to show historical data via DB, but what about triggering events as
 
 * https://github.com/Yongke/luamqttc   MQTT Lua Client
 * Postgresql
+* MQTT Server such as Mosquito
 * luasql postgress
 * apache2 + php + php postgress
 * Gnuplot
